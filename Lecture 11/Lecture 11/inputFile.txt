@@ -1,0 +1,12 @@
+#include <iostream> 
+
+
+
+int main()
+{
+	int c;
+	if(5 != 10) { /*do some stuff*/}
+	if (c != 5) { /*do some other stuff*/}
+
+	return 0;
+}
